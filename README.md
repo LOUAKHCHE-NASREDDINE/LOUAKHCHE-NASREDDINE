@@ -13,21 +13,28 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-A highly motivated Web Developer with 3 years of experience delivering complex and dynamic web-based solutions. Possesses a strong understanding of web development principles and a proven ability to create innovative, scalable, and user-friendly systems. 
+As a System and Cloud Engineer in training, I bring a solid foundation in networking, systems administration, and cloud-native technologies, reinforced by practical experience and professional certifications.
 
-💻 As a problem-solver at heart, I love finding the most elegant solutions to both simple and complex challenges.
+💻 Current Focus: Specializing in Kubernetes-based infrastructure, cloud solutions, and DevOps practices, I’m dedicated to designing scalable, secure, and efficient systems to meet modern IT challenges.
 
-<!--
-**LOUAKHCHE-NASREDDINE/LOUAKHCHE-NASREDDINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Core Competencies:
 
-Here are some ideas to get you started:
+🎯 Infrastructure as Code (IaC): Proficient with Terraform and Ansible for automating infrastructure deployment and management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Cloud Platforms: Hands-on experience with Microsoft Azure, including building Kubernetes clusters (AKS).
+
+🎯 Containerization: Expertise in Docker and Kubernetes (K8s, K3s, OpenShift) for container orchestration and microservices deployment.
+
+🎯 Monitoring and Observability: Skilled in tools like Grafana, Prometheus, and Zabbix to ensure system reliability and performance.
+
+🎯 Systems Administration: Proficiency in Linux and Windows environments, including advanced skills with Active Directory, DNS, and IIS.
+
+🎯 DevOps: Experience in CI/CD pipelines using Jenkins and Azure DevOps.
+
+📜 Certifications:
+
+📌  Microsoft Azure Fundamentals (AZ900)
+📌  Red Hat Certified System Administrator (RHCSA)
+📌  Kubernetes Master Class
+📌  Huawei Certified HCIA RS
+💡 What Drives Me: Passionate about leveraging cutting-edge technologies to solve complex problems, I thrive in environments where innovation and collaboration lead to impactful solutions.
