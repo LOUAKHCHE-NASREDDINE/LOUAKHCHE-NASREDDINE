@@ -13,7 +13,8 @@ As a System and Cloud Engineer in training, I bring a solid foundation in networ
 
 💻 Current Focus: Specializing in Kubernetes-based infrastructure, cloud solutions, and DevOps practices, I’m dedicated to designing scalable, secure, and efficient systems to meet modern IT challenges.
 
- *** Core Competencies:
+
+💡 **Core Competencies**:
 
 🎯 Infrastructure as Code (IaC): Proficient with Terraform and Ansible for automating infrastructure deployment and management.
 
@@ -35,9 +36,10 @@ As a System and Cloud Engineer in training, I bring a solid foundation in networ
 - **Containerization & Orchestration**: Docker, Kubernetes, K3s  
 - **Monitoring & Observability**: Prometheus, Grafana, Zabbix  
 - **Languages**: Python, Bash  
-- **Operating Systems**: Linux (Ubuntu, Debian), Windows Server  
+- **Operating Systems**: Linux (Ubuntu, Debian), Windows Server
 
-📜 Certifications:
+
+💡 **Certifications**:
 
 📌  Microsoft Azure Fundamentals (AZ900)
 
