@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hello! 👋 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -9,9 +8,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-As a System and Cloud Engineer in training, I bring a solid foundation in networking, systems administration, and cloud-native technologies, reinforced by practical experience and professional certifications.
-
-💻 Current Focus: Specializing in Kubernetes-based infrastructure, cloud solutions, and DevOps practices, I’m dedicated to designing scalable, secure, and efficient systems to meet modern IT challenges.
+💻  A passionate and dedicated **System and Cloud Engineer** with expertise in deploying and managing robust, scalable, and secure infrastructures. Leveraging my background in DevOps practices, automation tools, and cloud technologies, I aim to contribute to innovative IT solutions.
 
 
 💡 **Core Competencies**:
